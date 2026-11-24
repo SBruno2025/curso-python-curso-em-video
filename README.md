@@ -8,8 +8,8 @@ Aprendendo lógica de programação, variáveis, condições, laços e funções
 
 ## 📂 Conteúdo
 - `aula1.py` e `aula6.py` - Anotações das aulas
-- `desafio1.py` a `desafio3.py` - Exercícios iniciais
-- `ex1.py`, `ex2.py` - Práticas extras
+- `exercicio1.py` a `exercicio4.py` - Exercícios iniciais
+- `desafio1.py` a `desafio4.py` - Práticas extras
 
 ## 🚀 Tecnologias
 - Python 3
